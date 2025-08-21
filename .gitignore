@@ -1,0 +1,14 @@
+# Node modules
+node_modules
+
+# Angular files
+.angular
+
+# Temporary files
+.DS_Store
+
+# Build output
+dist
+
+# Environment files
+*.env   
