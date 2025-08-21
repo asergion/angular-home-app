@@ -21,6 +21,6 @@
 
 ## Learning Angular | youtube.com
 
-[Learning Angular](https://www.youtube.com/watch?v=R0nRX8jD2D0&list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF)
+[Learning Angular](https://www.youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF)
 
 
